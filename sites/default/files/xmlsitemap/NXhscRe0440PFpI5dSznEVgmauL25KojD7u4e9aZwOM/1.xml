@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/Ardent-Coffee/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<url><loc>http://localhost/Ardent-Coffee/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://localhost/Ardent-Coffee/batch-brew/jebena-coffee</loc><lastmod>2022-01-27T06:33Z</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://localhost/Ardent-Coffee/batch-brew/what-chemex-coffee</loc><lastmod>2022-01-27T06:35Z</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://localhost/Ardent-Coffee/cold-brew/iced-caramel-latte</loc><lastmod>2022-01-27T23:00Z</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://localhost/Ardent-Coffee/hot-brew/what-latte</loc><lastmod>2022-01-27T23:00Z</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://localhost/Ardent-Coffee/cold-brew/iced-caramel-macchiato</loc><lastmod>2022-01-27T22:34Z</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://localhost/Ardent-Coffee/pastry/perfect-croissant</loc><lastmod>2022-01-27T06:34Z</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://localhost/Ardent-Coffee/hot-brew/how-ardent-cafe-makes-hot-chocolate</loc><lastmod>2022-01-27T06:34Z</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://localhost/Ardent-Coffee/cold-brew/how-make-iced-latte-drink</loc><lastmod>2022-01-27T06:34Z</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://localhost/Ardent-Coffee/cold-brew/iced-espresso-tonic</loc><lastmod>2022-01-27T23:21Z</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+<url><loc>http://localhost/Ardent-Coffee/batch-brew/how-make-moka-pot-coffee</loc><lastmod>2022-01-27T06:34Z</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+</urlset>
